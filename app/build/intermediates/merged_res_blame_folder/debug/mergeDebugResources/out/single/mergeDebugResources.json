@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.example.clubmanagement.app-debug-31:/layout_activity_profile.xml.flat",
+        "source": "com.example.clubmanagement.app-main-33:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.clubmanagement.app-debug-31:/layout_activity_login.xml.flat",
+        "source": "com.example.clubmanagement.app-main-33:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.clubmanagement.app-debug-31:/layout_item_gallery.xml.flat",
+        "source": "com.example.clubmanagement.app-main-33:/layout/item_gallery.xml"
+    },
+    {
+        "merged": "com.example.clubmanagement.app-debug-31:/layout_activity_create_event.xml.flat",
+        "source": "com.example.clubmanagement.app-main-33:/layout/activity_create_event.xml"
+    },
+    {
+        "merged": "com.example.clubmanagement.app-debug-31:/layout_activity_dashboard.xml.flat",
+        "source": "com.example.clubmanagement.app-main-33:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.example.clubmanagement.app-debug-31:/layout_item_event.xml.flat",
+        "source": "com.example.clubmanagement.app-main-33:/layout/item_event.xml"
+    },
+    {
+        "merged": "com.example.clubmanagement.app-debug-31:/layout_item_club.xml.flat",
+        "source": "com.example.clubmanagement.app-main-33:/layout/item_club.xml"
+    },
+    {
+        "merged": "com.example.clubmanagement.app-debug-31:/layout_activity_club_events.xml.flat",
+        "source": "com.example.clubmanagement.app-main-33:/layout/activity_club_events.xml"
+    },
+    {
+        "merged": "com.example.clubmanagement.app-debug-31:/layout_item_member.xml.flat",
+        "source": "com.example.clubmanagement.app-main-33:/layout/item_member.xml"
+    },
+    {
+        "merged": "com.example.clubmanagement.app-debug-31:/layout_activity_event_details.xml.flat",
+        "source": "com.example.clubmanagement.app-main-33:/layout/activity_event_details.xml"
+    },
+    {
+        "merged": "com.example.clubmanagement.app-debug-31:/menu_bottom_navigation_menu.xml.flat",
+        "source": "com.example.clubmanagement.app-main-33:/menu/bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "com.example.clubmanagement.app-debug-31:/layout_activity_club_details.xml.flat",
+        "source": "com.example.clubmanagement.app-main-33:/layout/activity_club_details.xml"
+    }
+]
