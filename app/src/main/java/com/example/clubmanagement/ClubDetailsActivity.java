@@ -18,6 +18,7 @@ public class ClubDetailsActivity extends AppCompatActivity {
     private ImageView clubLogo;
     private TextView clubName;
     private TextView clubSlogan;
+    private TextView clubmanagement;
     private TextView clubDescription;
     private RecyclerView membersRecyclerView;
     private MaterialButton joinButton;
