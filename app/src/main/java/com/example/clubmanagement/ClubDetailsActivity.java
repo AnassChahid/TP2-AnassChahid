@@ -17,6 +17,7 @@ import java.util.List;
 public class ClubDetailsActivity extends AppCompatActivity {
     private ImageView clubLogo;
     private TextView clubName;
+    rivate TextView clubnthing;
     private TextView clubSlogan;
     private TextView clubDescription;
     private RecyclerView membersRecyclerView;
